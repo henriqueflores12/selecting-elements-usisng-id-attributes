@@ -1,2 +1,2 @@
-# mountague-house
-using a variable to store number ...
+# selecting elements using id attributes 
+
