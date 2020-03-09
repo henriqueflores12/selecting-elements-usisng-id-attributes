@@ -1,2 +1,5 @@
-# selecting elements using id attributes 
+# selecting elements using id attributes
 
+getElementById() allows you to select a single element node
+by specifying the value of its id attribute...
+use console.log() to see what happens ...
